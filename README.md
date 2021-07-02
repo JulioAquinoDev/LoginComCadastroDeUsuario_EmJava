@@ -4,8 +4,8 @@
 
 
 
-![](C:\meus_projetos\Desktop\Java\login\IMG\login.jpg)
+![](IMG\login.jpg)
 
 
 
-![](C:\meus_projetos\Desktop\Java\login\IMG\cadastro.jpg)
+![](IMG\cadastro.jpg)

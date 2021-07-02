@@ -4,8 +4,8 @@
 
 
 
-![](IMG\login.jpg)
+<img src="IMG\login.jpg" />
 
 
 
-![](IMG\cadastro.jpg)
+<img src="IMG\cadastro.jpg" />
